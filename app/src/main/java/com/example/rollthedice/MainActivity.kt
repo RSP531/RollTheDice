@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         val rollButton: Button = findViewById(R.id.roll_button)
 
         rollButton.setOnClickListener {
-
+            //test
         }
     }
 }
